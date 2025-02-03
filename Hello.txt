@@ -1,2 +1,2 @@
-This is a new File! and it was changed in origin
+This is a new File! and it was changed in origin BRANCH CHANGED THIS LINE
 This is a branch change
